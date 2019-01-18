@@ -1,13 +1,6 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Object to Json Trim Long Value Demo
+==============================================
 
 ```
-npm install
 npm run demo
-```
-
-It will print:
-
-```
-Hello, Javascript
 ```
